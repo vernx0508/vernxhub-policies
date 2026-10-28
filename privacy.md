@@ -1,8 +1,8 @@
 ---
-title: Merkado Keys — Privacy Notice
+title: VernxHub Keys — Privacy Notice
 ---
 
-# Merkado Keys — Privacy Notice
+# VernxHub Keys — Privacy Notice
 
 Vernxkiedooo · Updated October 28, 2026
 
@@ -28,4 +28,4 @@ Discord handles commands and responses. Cloudflare hosts the service and databas
 
 ## Your choices
 
-Contact vernx0508 on Discord to request access to or deletion of your key record. Requests are handled manually. Deleting an active record invalidates its key. This notice covers Merkado Keys; Honeypot is a separate service with its own privacy policy at [https://honeypot.riskymh.dev/docs/privacy-policy](https://honeypot.riskymh.dev/docs/privacy-policy).
+Contact vernx0508 on Discord to request access to or deletion of your key record. Requests are handled manually. Deleting an active record invalidates its key. This notice covers VernxHub Keys; Honeypot is a separate service with its own privacy policy at [https://honeypot.riskymh.dev/docs/privacy-policy](https://honeypot.riskymh.dev/docs/privacy-policy).
