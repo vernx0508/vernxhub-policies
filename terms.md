@@ -1,8 +1,8 @@
 ---
-title: Merkado — Usage Terms
+title: VernxHub — Usage Terms
 ---
 
-# Merkado — Usage Terms
+# VernxHub — Usage Terms
 
 Vernxkiedooo · Updated October 28, 2026
 
@@ -24,7 +24,7 @@ Features, key settings, and availability may change. Game or executor updates ma
 
 ## Official releases
 
-Use releases from #script-loader. Other copies may be outdated or modified. Merkado is not affiliated with or endorsed by Roblox, Discord, or the game developers.
+Use releases from #script-loader. Other copies may be outdated or modified. VernxHub is not affiliated with or endorsed by Roblox, Discord, or the game developers.
 
 ## Support and privacy
 
